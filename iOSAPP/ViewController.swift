@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        print("使用Git仓库和GitHub平台")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
